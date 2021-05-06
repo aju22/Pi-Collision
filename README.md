@@ -12,3 +12,5 @@ Tried to implement in code, and added the satisfying clacks.
 Written in python, using P5 library for graphic implementation.
 
 # Looks Good !
+![Movement and Guidance](Resources/gif.gif)
+
